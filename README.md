@@ -4,7 +4,7 @@
 This project provides an end-to-end data analysis of hospital operations and financial performance from 2022 to 2025. By integrating **SQL** for data processing and **Tableau** for visualization, the study identifies critical bottlenecks in patient conversion, staffing inefficiencies, and revenue optimization strategies.
 
 ## 📂 Data Source
-* **Source:** Kaggle [https://www.kaggle.com/datasets/mshamoonbutt/hospital-management-system]
+* **Source:** [Kaggle Hospital Management System](https://www.kaggle.com/datasets/mshamoonbutt/hospital-management-system)
 * **Description:** The dataset includes patient medical records, treatment costs, staffing data, and surgical schedules.
 
 ## 🛠 Tech Stack
@@ -50,7 +50,5 @@ This project provides an end-to-end data analysis of hospital operations and fin
 ---
 
 ### 🚀 Live Dashboard
-View the interactive visualization here: **[https://public.tableau.com/views/Hospital-Operational-KPI-Dashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link]**
+View the interactive visualization here: **[Dashboard](https://public.tableau.com/views/Hospital-Operational-KPI-Dashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
----
-© 2026 [Thanh Tâm/tam2208lili]
