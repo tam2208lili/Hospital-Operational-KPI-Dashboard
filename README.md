@@ -50,7 +50,7 @@ This project provides an end-to-end data analysis of hospital operations and fin
 ---
 
 ### 🚀 Live Dashboard
-View the interactive visualization here: **[https://public.tableau.com/views/Hospital-Operational-KPI-Dashboard/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
+View the interactive visualization here: **[https://public.tableau.com/views/Hospital-Operational-KPI-Dashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link]**
 
 ---
 © 2026 [Thanh Tâm/tam2208lili]
